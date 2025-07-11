@@ -4,7 +4,7 @@
       "key": "Jable",
       "name": "Jable",
       "type": 3,
-      "api": "https://api.jable.tv",
+      "api": "csp_Jable",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
