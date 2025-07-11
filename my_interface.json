@@ -1,0 +1,22 @@
+{
+  "sites": [
+    {
+      "key": "Jable",
+      "name": "Jable",
+      "type": 3,
+      "api": "https://api.jable.tv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "MissAV",
+      "name": "MissAV",
+      "type": 3,
+      "api": "https://api.missav.com",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
